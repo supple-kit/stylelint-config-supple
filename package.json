@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-config-supple",
+  "version": "1.0.0",
+  "description": "Supple shareable config for stylelint",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "standard",
+    "supple",
+    "code style"
+  ],
+  "author": "Bram Smulders <bram@bramsmulders.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supple-css/stylelint-config-supple.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint": "^8.1.1"
+  }
+}
