@@ -126,7 +126,7 @@ module.exports = {
     "shorthand-property-no-redundant-values": true,
 
     "string-no-newline": true,
-    "string-quotes": "double",
+    "string-quotes": "single",
 
     "unit-case": "lower",
     "unit-no-unknown": true,

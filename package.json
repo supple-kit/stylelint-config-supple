@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-supple",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Supple shareable config for stylelint",
   "keywords": [
     "stylelint",
@@ -20,6 +20,6 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint": "^8.1.1"
+    "stylelint": "^9.9.0"
   }
 }
