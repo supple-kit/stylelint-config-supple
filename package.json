@@ -20,6 +20,6 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint": "^8.1.1"
+    "stylelint": "^9.9.0"
   }
 }
