@@ -1,3 +1,7 @@
+# 2.1.0
+
+-   Prefer double colons for pseudo elements
+
 # 2.0.0
 
 -   Updated dependencies

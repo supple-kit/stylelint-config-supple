@@ -1,4 +1,4 @@
-# stylelint-config-supple - 2.0.0
+# stylelint-config-supple - 2.1.0
 The Supple shareable config for stylelint
 
 ## Installation
