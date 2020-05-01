@@ -1,14 +1,10 @@
-# stylelint-config-supple - 2.1.0
-The Supple shareable config for stylelint
+# stylelint-config-supple - 3.0.0
+The Supple shareable config for stylelint, build on top of [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard).
 
 ## Installation
 
 ```bash
 npm install stylelint-config-supple --save-dev
-```
-
-```bash
-yarn add stylelint-config-supple --dev
 ```
 
 ## Usage
