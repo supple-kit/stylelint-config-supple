@@ -7,9 +7,12 @@ module.exports = {
   ],
   "rules": {
     "scss/at-extend-no-missing-placeholder": true,
+    "scss/at-rule-no-unknown": true,
     "scss/dollar-variable-colon-space-before": "never",
     "scss/selector-no-redundant-nesting-selector": true,
+    "at-rule-empty-line-before": null,
     "at-rule-name-newline-after": "always-multi-line",
+    "at-rule-no-unknown": null,
     "at-rule-no-vendor-prefix": true,
     "block-closing-brace-newline-after": ["always", {
       ignoreAtRules: ["if", "else"]

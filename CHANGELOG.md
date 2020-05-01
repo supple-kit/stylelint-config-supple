@@ -1,3 +1,7 @@
+# 3.0.1
+
+-   fixed @rule parsing for scss syntax
+
 # 3.0.0
 
 -   Refactored on top of `styleling-config-standard`
