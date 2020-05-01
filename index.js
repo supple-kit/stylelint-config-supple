@@ -21,6 +21,7 @@ module.exports = {
     "color-hex-length": "long",
     "color-named": "never",
     "declaration-block-semicolon-newline-before": "never-multi-line",
+    "declaration-empty-line-before": "never",
     "font-family-name-quotes": "always-where-required",
     "function-comma-newline-before": "never-multi-line",
     "function-url-quotes": "always",
