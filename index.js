@@ -16,7 +16,6 @@ module.exports = {
     }],
     "block-closing-brace-space-after": "always-single-line",
     "color-hex-length": "long",
-    "color-hex-case": "upper",
     "color-named": "never",
     "declaration-block-semicolon-newline-before": "never-multi-line",
     "font-family-name-quotes": "always-where-required",
