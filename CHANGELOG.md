@@ -1,3 +1,7 @@
+# 3.0.2
+
+-   declaration-empty-line-before to never because of scss mixins & such
+
 # 3.0.1
 
 -   fixed @rule parsing for scss syntax
