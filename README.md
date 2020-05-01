@@ -1,4 +1,4 @@
-# stylelint-config-supple - 3.0.0
+# stylelint-config-supple - 3.0.1
 The Supple shareable config for stylelint, build on top of [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard).
 
 ## Installation
