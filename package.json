@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-supple",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Supple shareable config for stylelint",
   "keywords": [
     "stylelint",
@@ -20,6 +20,13 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint": "^9.10.1"
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.17.1"
+  },
+  "devDependencies": {
+    "stylelint": "^13.3.3"
+  },
+  "peerDependencies": {
+    "stylelint": "^10.1.0 || ^11.0.0 || ^12.0.0 || ^13.0.0"
   }
 }

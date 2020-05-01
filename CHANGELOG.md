@@ -1,3 +1,7 @@
+# 3.0.0
+
+-   Refactored on top of `styleling-config-standard`
+
 # 2.1.0
 
 -   Prefer double colons for pseudo elements
