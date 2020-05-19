@@ -1,3 +1,7 @@
+# 3.0.3
+
+-   Removed at-rule-name-newline-after because its conflicting with new @use syntax
+
 # 3.0.2
 
 -   declaration-empty-line-before to never because of scss mixins & such
