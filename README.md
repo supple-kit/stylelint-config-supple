@@ -1,10 +1,10 @@
-# stylelint-config-supple - 3.0.3
+# @supple-kit/stylelint-config-supple - 3.0.3
 The Supple shareable config for stylelint, build on top of [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard).
 
 ## Installation
 
 ```bash
-npm install stylelint-config-supple --save-dev
+npm install @supple-kit/stylelint-config-supple --save-dev
 ```
 
 ## Usage
@@ -13,6 +13,6 @@ If you've installed `stylelint-config-supple` locally within your project, just 
 
 ```json
 {
-  "extends": "stylelint-config-supple"
+  "extends": "@supple-kit/stylelint-config-supple"
 }
 ```

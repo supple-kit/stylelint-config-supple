@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-supple",
+  "name": "@supple-kit/stylelint-config-supple",
   "version": "3.0.3",
   "description": "Supple shareable config for stylelint",
   "keywords": [
@@ -7,13 +7,14 @@
     "stylelint-config",
     "standard",
     "supple",
+    "supple kit",
     "code style"
   ],
-  "author": "Bram Smulders <bram@bramsmulders.com>",
+  "author": "Bram Smulders <hello@bram.is>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/supple-css/stylelint-config-supple.git"
+    "url": "https://github.com/supple-kit/stylelint-config-supple.git"
   },
   "main": "index.js",
   "files": [
