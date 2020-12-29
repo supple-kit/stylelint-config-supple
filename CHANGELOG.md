@@ -1,3 +1,7 @@
+# 3.0.4
+
+-   Updated packages
+
 # 3.0.3
 
 -   Removed at-rule-name-newline-after because its conflicting with new @use syntax
