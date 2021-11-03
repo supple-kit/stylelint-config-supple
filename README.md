@@ -1,4 +1,4 @@
-# @supple-kit/stylelint-config-supple - 3.0.4
+# @supple-kit/stylelint-config-supple
 
 The Supple shareable config for stylelint, build on top of [stylelint-config-standard-scss](https://github.com/stylelint-scss/stylelint-config-standard-scss).
 
