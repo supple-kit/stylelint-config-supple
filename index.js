@@ -19,6 +19,7 @@ module.exports = {
 		"block-closing-brace-space-after": "always-single-line",
 		"color-hex-length": "long",
 		"color-named": "never",
+		"declaration-block-no-redundant-longhand-properties": null,
 		"declaration-block-semicolon-newline-before": "never-multi-line",
 		"declaration-empty-line-before": "never",
 		"font-family-name-quotes": "always-where-required",
