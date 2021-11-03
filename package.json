@@ -1,33 +1,42 @@
 {
-  "name": "@supple-kit/stylelint-config-supple",
-  "version": "3.0.4",
-  "description": "Supple shareable config for stylelint",
-  "keywords": [
-    "stylelint",
-    "stylelint-config",
-    "standard",
-    "supple",
-    "supple kit",
-    "code style"
-  ],
-  "author": "Bram Smulders <hello@bram.is>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/supple-kit/stylelint-config-supple.git"
-  },
-  "main": "index.js",
-  "files": [
-    "index.js"
-  ],
-  "dependencies": {
-    "stylelint-config-standard": "^20.0.0",
-    "stylelint-scss": "^3.18.0"
-  },
-  "devDependencies": {
-    "stylelint": "^13.8.0"
-  },
-  "peerDependencies": {
-    "stylelint": "^10.1.0 || ^11.0.0 || ^12.0.0 || ^13.0.0"
-  }
+	"name": "@supple-kit/stylelint-config-supple",
+	"version": "4.0.0",
+	"description": "Supple shareable config for stylelint",
+	"keywords": [
+		"stylelint",
+		"stylelint-config",
+		"standard",
+		"supple",
+		"supple-kit",
+		"supple kit",
+		"code style"
+	],
+	"author": "Bram Smulders <source@bram.is>",
+	"funding": [
+		{
+			"type": "github",
+			"url": "https://www.github.com/sponsors/bramsmulders"
+		},
+		{
+			"type": "paypal",
+			"url": "https://www.paypal.me/smuldersbram/EUR"
+		}
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/supple-kit/stylelint-config-supple.git"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"devDependencies": {
+		"stylelint": "^14.0.1",
+		"stylelint-config-standard-scss": "^2.0.1"
+	},
+	"peerDependencies": {
+		"stylelint": "^14.0.0",
+		"stylelint-config-standard-scss": "^2.0.1"
+	}
 }
