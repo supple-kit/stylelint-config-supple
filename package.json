@@ -1,16 +1,27 @@
 {
 	"name": "@supple-kit/stylelint-config-supple",
-	"version": "3.0.4",
+	"version": "4.0.0",
 	"description": "Supple shareable config for stylelint",
 	"keywords": [
 		"stylelint",
 		"stylelint-config",
 		"standard",
 		"supple",
+		"supple-kit",
 		"supple kit",
 		"code style"
 	],
 	"author": "Bram Smulders <source@bram.is>",
+	"funding": [
+		{
+			"type": "github",
+			"url": "https://www.github.com/sponsors/bramsmulders"
+		},
+		{
+			"type": "paypal",
+			"url": "https://www.paypal.me/smuldersbram/EUR"
+		}
+	],
 	"license": "MIT",
 	"repository": {
 		"type": "git",
