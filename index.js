@@ -29,6 +29,8 @@ module.exports = {
 		"media-query-list-comma-newline-before": "never-multi-line",
 		"no-unknown-animations": true,
 		"selector-attribute-quotes": "always",
+		"selector-class-pattern":
+			"^[a-z]([a-z0-9-]+)?(__([a-z0-9]+-?)+)?(--([a-z0-9]+-?)+){0,2}$",
 		"selector-list-comma-newline-before": "never-multi-line",
 		"selector-list-comma-space-after": "always-single-line",
 		"selector-max-compound-selectors": 5,
