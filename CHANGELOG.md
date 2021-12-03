@@ -1,3 +1,7 @@
+# 4.0.1
+
+- Update packages & housekeeping
+
 # 4.0.0
 
 - Upgraded to stylelint 14
